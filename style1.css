@@ -1,0 +1,31 @@
+body
+{
+    width:100%;
+    background:url(background2.jpg);
+    background-position:center;
+    background-size:cover;
+    height:100vh;
+    position: relative;
+    font-family:Helvetica;
+
+}
+.degree pre{
+    line-height:1.5px;
+}
+.degree  p{
+    font-size:20px;
+    
+}
+.school pre{
+    line-height:1.5px;
+}
+.school p{
+    font-size:20px;
+}
+.pu pre
+{
+    line-height:1.5px;
+}
+.pu p{
+    font-size:20px;
+}

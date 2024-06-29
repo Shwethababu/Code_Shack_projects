@@ -1,0 +1,20 @@
+body
+{
+    width:100%;
+    background:url(background2.jpg);
+    background-position:center;
+    background-size:cover;
+    height:100vh;
+    position: relative;
+    font-family:Helvetica;
+
+}
+h1{
+    text-align:center;
+}
+p{
+    
+    line-height:60px;
+    font-size:30px;
+}
+
