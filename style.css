@@ -114,8 +114,4 @@ footer {
 .contact-info span {
     margin-right: 50px; 
 }
-@media (width < 750px) {
-    nav .checkbox {
-      display: block;
-    }
-}
+
