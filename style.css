@@ -9,7 +9,7 @@
     
     background: url(background2.jpg);
     background-position:center;
-    background-size: cover;
+    background-size:cover;
     height:100vh;
     position: relative;
     font-family:Helvetica ;
@@ -114,4 +114,8 @@ footer {
 .contact-info span {
     margin-right: 50px; 
 }
-
+@media (width < 750px) {
+    nav .checkbox {
+      display: block;
+    }
+}
